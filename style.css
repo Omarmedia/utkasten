@@ -69,7 +69,7 @@ img {
 
 /**************** HERO ***************/
 .hero {
-    background: url('img\ /hero1.png') no-repeat;
+    background: url('img/hero1.png') no-repeat;
     background-size: contain;
     background-position: center bottom;
     height: 620px;
@@ -101,7 +101,7 @@ img {
 /* Velkommen */
 .velkommen {
     padding: 20px;
-    background: url('./img\ /kontaktBG.png') no-repeat center center/cover;
+    background: url('./img/kontaktBG.png') no-repeat center center/cover;
 }
 
 .velkommen-content {
@@ -296,7 +296,7 @@ img {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: url('img\ /kontaktBG.png') no-repeat center center/cover;
+    background: url('img/kontaktBG.png') no-repeat center center/cover;
 }
 
 .contact .content {
@@ -695,7 +695,7 @@ img {
     }
 
     .hero .container {
-        background: url('./img\ /løsdet-mobil.png') no-repeat;
+        background: url('./img/løsdet-mobil.png') no-repeat;
         background-size: 480px 520px;
         background-position: bottom;
         height: 670px;
